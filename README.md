@@ -20,6 +20,9 @@ Tech Stack:
 
 To run this application bundle install and start the server with rails s, then be sure to clone down the front end, npm install and npm start.
 
+Check out a demo of the application here:
+https://youtu.be/CCOOxlnmUBQ
+
 
 My name is Austin Evans and this is my mod 4 project at Flatiron School for Software Engineering.
 
